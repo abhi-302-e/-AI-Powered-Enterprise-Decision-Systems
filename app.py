@@ -1,7 +1,7 @@
 """
 AI-POWERED ENTERPRISE DECISION SYSTEM
 Consulting Analytics & Intelligent Decision Support Platform
-Author: Rayala Dheeraj Kumar (24STUCHH010133) | ICFAI Tech
+Author: E Abhishek (24STUCHH010302) | ICFAI Tech
 Academic & Real-World Consulting Prototype
 Complete SQLite Persistence Engine (15 Relational Tables)
 """
@@ -197,8 +197,8 @@ st.markdown("""
         </div>
         <div style="text-align: right; margin-top: 10px;">
             <div style="font-size: 12px; color: #94a3b8;">Client Prototype Deployment</div>
-            <div style="font-size: 13px; font-weight: 700; color: #38bdf8;">Rayala Dheeraj Kumar</div>
-            <div style="font-size: 11px; color: #64748b;">ICFAI Tech • 24STUCHH010133</div>
+            <div style="font-size: 13px; font-weight: 700; color: #38bdf8;">E Abhishek</div>
+            <div style="font-size: 11px; color: #64748b;">ICFAI Tech • 24STUCHH010302</div>
         </div>
     </div>
 </div>
