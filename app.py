@@ -1,7 +1,7 @@
 """
 AI-POWERED ENTERPRISE DECISION SYSTEM
 Consulting Analytics & Intelligent Decision Support Platform
-Author: E Abhishek (24STUCHH010302) | ICFAI Tech
+Author: E Abhishek (24STUCHH010302) | ICFAI Tech. 
 Academic & Real-World Consulting Prototype
 Complete SQLite Persistence Engine (15 Relational Tables)
 """
