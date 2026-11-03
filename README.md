@@ -1,4 +1,4 @@
-# AI-Powered Enterprise Decision System — Consulting Analytics Platform
+# AI-Powered Enterprise Decision System — Consulting Analytics Platform.
 
 **Lead Author & Researcher:** Rayala Dheeraj Kumar (24STUCHH010133)  
 **Institution:** Faculty of Science & Technology (FST), The ICFAI Foundation for Higher Education, Hyderabad  
