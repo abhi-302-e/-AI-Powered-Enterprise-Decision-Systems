@@ -34,7 +34,7 @@ The **AI-Powered Enterprise Decision System** delivers a **production-grade full
 | **8. Data Management & SQLite Pipeline** | Relational SQLite storage (`enterprise_decision_system.db`) with 15 tables + Live SQL Console. | Persistent storage across sales, inventory, customers, transactions, and audit trails. |
 | **9. Executive Briefing & Deliverable Generator** | ReportLab vector PDF engine + Standalone interactive HTML briefing generator. | One-click downloadable board presentations and executive advisory memos. |
 
----
+---------
 
 ## 🛠️ Technology Stack
 
